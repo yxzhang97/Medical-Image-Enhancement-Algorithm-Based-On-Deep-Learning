@@ -122,3 +122,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project
+__pycache__/
+10000 iterations results/
+data/
+models/
+preprocession/__pycache__/
+results/
+slices/
+vgg_pretrained/
+visual_results/
+*.DS_Store
+.idea/
+*.iml
+
