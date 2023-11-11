@@ -137,3 +137,5 @@ visual_results/
 .idea/
 *.iml
 
+# Dataset
+data/
